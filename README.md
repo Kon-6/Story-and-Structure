@@ -1,1 +1,1 @@
-I used A.I to help me word my ideas
+I used Chatgpt to help me word my ideas on the documents.
