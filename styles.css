@@ -1,10 +1,10 @@
 :root {
   color-scheme: dark;
-  --ink: #eaf8fb;
-  --muted: #a3b4ba;
-  --surface: #031218;
-  --line: #17424d;
-  --signal: #47ddff;
+  --ink: #E5E7EB;
+  --muted: #94A3B8;
+  --surface: #111827;
+  --line: #334155;
+  --signal: #22D3EE;
 }
 
 * { box-sizing: border-box; }
