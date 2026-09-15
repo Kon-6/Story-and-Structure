@@ -77,3 +77,10 @@ p { color: var(--muted); line-height: 1.7; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; animation: none !important; }
 }
+
+.scene img {
+    width: 60%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
