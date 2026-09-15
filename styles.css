@@ -14,7 +14,7 @@ body {
   min-height: 100vh;
   padding: 2rem;
   color: var(--ink);
-  background: radial-gradient(circle at 70% 10%, #0b3440 0, #02090c 46%, #010405 100%);
+  background: radial-gradient(circle at 70% 10%, #162033 0, #0B0F1A 46%, #05070D 100%);
   font-family: Arial, Helvetica, sans-serif;
 }
 
